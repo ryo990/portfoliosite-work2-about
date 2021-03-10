@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body{
+  background-color:#EEE;
+}
+
+.wrapper h1{
+  text-align:center;
+  color:navy;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.image{
+  height:500px;
+  margin-left:200px;
+  margin-right:200px;
+  border:solid 5px silver;
+}
+
+.image img{
+  height:500px;
+  width:100%;
+}
+
+.ward{
+  text-align:center;
+  font-family: 'Noto Serif JP', serif;
+}
+
+.ward h1{
+  color:teal;
+  font-size:50px;
+  font-weight:bold;
+  margin-bottom:0;
+}
+
+.ward h2{
+  border-bottom:solid 1px black;
+  display:inline-block;
+  margin-bottom:0;
+}
+
+footer{
+  background-color:silver;
+  text-align:center;
+}
